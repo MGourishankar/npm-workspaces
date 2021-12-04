@@ -1,0 +1,24 @@
+{
+  "name": "@monorepo/shared",
+  "version": "1.0.0",
+  "description": "Shared package accross apps",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MGourishankar/npm-workspaces.git"
+  },
+  "keywords": [
+    "workspaces",
+    "monorepo"
+  ],
+  "author": "Gouri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MGourishankar/npm-workspaces/issues"
+  },
+  "homepage": "https://github.com/MGourishankar/npm-workspaces#readme"
+}

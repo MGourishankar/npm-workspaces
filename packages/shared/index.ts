@@ -1,0 +1,1 @@
+export const sayHelloToTheViewer = (from: string) => console.log(`Hello from ${from}!`);
